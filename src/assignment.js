@@ -52,7 +52,7 @@ function sumOfNumbers(arrayOfNumbers) {
 
 let newArray=[]
 function countEvenNumbers(arrayOfNumbers) {
-    
+}
 /*for(i=0; i<arrayOfNumbers.length; i++){
   
    arrayOfNumbers[i]
