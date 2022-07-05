@@ -60,7 +60,7 @@ function countEvenNumbers(arrayOfNumbers) {
     newArray.push(arrayOfNumbers[i])
   }
     } return newArray.length
-}*/
+*/
 
 // assignment.countEvenNumbers = countEvenNumbers;
 
