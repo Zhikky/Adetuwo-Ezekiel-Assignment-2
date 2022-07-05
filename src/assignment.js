@@ -53,16 +53,16 @@ function sumOfNumbers(arrayOfNumbers) {
 let newArray=[]
 function countEvenNumbers(arrayOfNumbers) {
     
-for(i=0; i<arrayOfNumbers.length; i++){
+/*for(i=0; i<arrayOfNumbers.length; i++){
   
    arrayOfNumbers[i]
   if(arrayOfNumbers[i]%2==0){
     newArray.push(arrayOfNumbers[i])
   }
     } return newArray.length
-}
+}*/
 
-assignment.countEvenNumbers = countEvenNumbers;
+// assignment.countEvenNumbers = countEvenNumbers;
 
 /**
  * Challenge - 3
